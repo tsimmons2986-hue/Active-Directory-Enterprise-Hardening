@@ -32,3 +32,4 @@ This hands-on lab demonstrates the deployment of a secure corporate infrastructu
 ### 4. Centralized File Services & Storage Security
 * **Network Shares:** Configured a centralized `CompanyShares` directory on the file server to map network storage across corporate workstations.
 * **NTFS & Share Permissions:** Implemented explicit security permissions, ensuring only authorized departmental security groups have access to sensitive folders (e.g., restricting `Accounting_Data` to the Accounting team) while configuring public drop folders with write-only protections.
+<img src="AccountingOnly_ShareDrive.jpg" alt="ServiceNow and Active Directory Reset Workflow" width="100%">
