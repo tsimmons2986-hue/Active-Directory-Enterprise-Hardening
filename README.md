@@ -22,6 +22,7 @@ This hands-on lab demonstrates the deployment of a secure corporate infrastructu
 ### 2. Help Desk & Lifecycle Operations
 * **User Management:** Practiced administrative help desk workflows, including provisioning new employee accounts, managing object properties, and disabling stale accounts.
 * **Credential Management:** Executed manual password resets, configured "user must change password at next logon" flags, and unlocked accounts within Active Directory Users and Computers (ADUC).
+![ServiceNow Ticket and Active Directory Password Reset Workflow Flowchart](password-reset-workflow.jpg)
 
 ### 3. Group Policy Objects (GPOs) & Security Hardening
 * **Workstation Hardening GPO:** Configured and linked a specialized security policy (`GPO_Workstation_Hardening`) targeting standard user objects to enforce corporate compliance across enterprise endpoints.
