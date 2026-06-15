@@ -27,6 +27,7 @@ This hands-on lab demonstrates the deployment of a secure corporate infrastructu
 ### 3. Group Policy Objects (GPOs) & Security Hardening
 * **Workstation Hardening GPO:** Configured and linked a specialized security policy (`GPO_Workstation_Hardening`) targeting standard user objects to enforce corporate compliance across enterprise endpoints.
 * **Default Domain Password Policy:** Configured global account security rules to enforce enterprise-grade password complexity, minimum length requirements, and lockout thresholds to protect the domain from brute-force authentication attacks.
+<img src="CommandLine_restrictions.jpg" alt="ServiceNow and Active Directory Reset Workflow" width="100%">
 
 ### 4. Centralized File Services & Storage Security
 * **Network Shares:** Configured a centralized `CompanyShares` directory on the file server to map network storage across corporate workstations.
